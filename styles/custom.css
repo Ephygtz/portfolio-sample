@@ -1,0 +1,21 @@
+body {
+
+}
+
+.bg1 {
+	background-color: #1abc9c;
+}
+
+.container-fluid {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: orange; /* White */
+    color: #555555;
+}
